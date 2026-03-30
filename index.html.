@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Bot Practice Site</title>
+</head>
+<body>
+    <h1>Welcome to my Chatbot Lab</h1>
+    <p>The bot should appear in the bottom right corner!</p>
+
+    <script src="https://cdn.botpress.cloud/webchat/v3.6/inject.js"></script>
+<script src="https://files.bpcontent.cloud/2026/03/30/01/20260330012138-MF3JRN8E.js" defer></script>
+    
+    </body>
+</html>
